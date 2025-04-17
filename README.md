@@ -1,2 +1,2 @@
 # Todo-list
-Store and manage tasks the right way
+To store and manage tasks 
